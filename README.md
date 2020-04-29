@@ -1,5 +1,5 @@
 # nlp_final_demo
-I analyzed the underlying tree structures of word2vec embeddings and compared it to wordnet trees to understand how much conceptual information they encode
+I analyzed the underlying tree structures of word2vec embeddings and compared it to wordnet trees to understand how much of hypernym/hyponym information they encode
 
 # Word2Vec Trees
 - Use the embeddings to find cosine distance between any 2 words
